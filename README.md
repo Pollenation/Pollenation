@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Pollenation
+- 👀 I’m interested in C# and machine learning
+- 🌱 I’m currently learning Xamarin
+- 📫 You can reach me at pollenation@protonmail.com
